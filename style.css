@@ -1,0 +1,50 @@
+#{
+	padding: 0px;
+	margin: 0px;
+}
+
+.b{
+	margin-left: 6em;
+}
+
+.c{
+	margin-left: 6em;
+}
+
+.a{
+	float: left;
+
+}
+
+.d{
+	float: right;
+}
+
+.e{
+	margin-left: 5em;
+}
+
+.f{
+	margin-left: 4em;
+}
+
+.h{
+	margin-left: 7em;
+}
+.i{
+	margin-left: 5em;
+}
+
+.j{
+	float: right;
+}
+
+.g{
+	float: left;
+}
+
+body{
+	background-image: url(img/fondo.jpg);
+	background-size: 100% 100% ;
+	background-attachment:fixed;
+}
